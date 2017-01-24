@@ -41,7 +41,8 @@
   <img src='http://feelgrafix.com/data_images/out/28/987510-business.jpg'/>
   <div class="text">
   <h1>Créer un devis.</h1>
-  <h2 class="animate-text">Création d'un devis, client ou prospect</h2>
+  <h2 class="animate-text">
+    <li style="list-style-type : none;"><a href="https://madera-devisms-front.herokuapp.com/prospect">Gestion des clients</a></li></h2>
 <div class="dots">
     <span></span>
     <span></span>
