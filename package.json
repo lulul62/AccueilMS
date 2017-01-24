@@ -17,10 +17,13 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.4.1"
+    "electron": "^1.4.1",
+    "bower": "1.7.1",
+    "express": "4.13.3"
   },
   "engines": {
     "node": "5.1.0",
     "npm": "3.4.1"
-  }
+  },
+  "cacheDirectories": ["node_modules"]
 }
